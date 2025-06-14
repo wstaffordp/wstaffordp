@@ -2,9 +2,9 @@ I'm the best in the world 🎉🏆🌎 at making high-quality, practical algorit
 
 As a result, I've brought the benefits of quantum supremacy 🧪✨🔬 to classical computers 💻🤔📱 by making fundamental computer science algorithms that were once considered impossible.
 
-Most of them, if not all, are optimal 🧠 within their classifications, so they'll never be obsoleted ⏳👑 for the entirety of existence.
+Most of them, if not all, are optimal within their classifications, so they'll never be obsoleted ⏳👑 for eternity.
 
-It's just the beginning 🦾🤖 and I'm always working 🚧🔩 on new algorithms.
+It's just the beginning 🦾🤖🧠 and I'm always working 🚧🔩 on new algorithms.
 
 ### PRNG
 
