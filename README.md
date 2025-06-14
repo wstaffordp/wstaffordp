@@ -10,7 +10,7 @@ It's just the beginning 🦾🤖 and I'm always working on new algorithms.
 
 **A** | [8](https://github.com/wstaffordp/prng-a-8) | [16](https://github.com/wstaffordp/prng-a-16) | [32](https://github.com/wstaffordp/prng-a-32) | [64](https://github.com/wstaffordp/prng-a-64) | Extremely-fast, small-period, weak PRNGs.
 
-**B** | [8](https://github.com/wstaffordp/prng-b-8) | [16](https://github.com/wstaffordp/prng-b-16) | [32](https://github.com/wstaffordp/prng-b-32) | [64](https://github.com/wstaffordp/prng-b-64) | Fast, small-period, strong PRNGs.
+**B** | [8](https://github.com/wstaffordp/prng-b-8) | [16](https://github.com/wstaffordp/prng-b-16) | [16-32](https://github.com/wstaffordp/prng-b-16-32) | [32](https://github.com/wstaffordp/prng-b-32) | [64](https://github.com/wstaffordp/prng-b-64) | Fast, small-period, strong PRNGs.
 
 **C** | [8](https://github.com/wstaffordp/prng-c-8) | [16](https://github.com/wstaffordp/prng-c-16) | [32](https://github.com/wstaffordp/prng-c-32) | [64](https://github.com/wstaffordp/prng-c-64) | Fast, medium-period, strong PRNGs.
 
