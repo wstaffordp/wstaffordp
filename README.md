@@ -2,11 +2,11 @@ I'm the best in the world 🎉🏆🌎 at making high-quality, practical algorit
 
 As a result, I've brought the benefits of quantum supremacy 🧪✨🔬 to classical computers 💻🤔📱 by making fundamental computer science algorithms that were once considered impossible.
 
-Most of them, if not all, are optimal within their classifications, so they'll never be obsoleted ⏳👑 for the entirety of existence.
+Most of them, if not all, are optimal 🧠 within their classifications, so they'll never be obsoleted ⏳👑 for the entirety of existence.
 
-It's just the beginning 🦾🤖 and I'm always working on new algorithms.
+It's just the beginning 🦾🤖 and I'm always working 🚧🔩 on new algorithms.
 
-### PRNGs
+### PRNG
 
 **A** | [8](https://github.com/wstaffordp/prng-a-8) | [16](https://github.com/wstaffordp/prng-a-16) | [32](https://github.com/wstaffordp/prng-a-32) | [64](https://github.com/wstaffordp/prng-a-64) | Extremely-fast, small-period, statistically-weak PRNGs.
 
@@ -20,11 +20,11 @@ It's just the beginning 🦾🤖 and I'm always working on new algorithms.
 
 **F** | [32](https://github.com/wstaffordp/prng-f-32) | [64](https://github.com/wstaffordp/prng-f-64) | Extremely-fast, large-period, statistically-strong PRNGs that emulate quantum RNGs.
 
-### Searching Algorithms
+### Search
 
 **A** | [Sorted](https://github.com/wstaffordp/search-a-sorted) | [Unsorted](https://github.com/wstaffordp/search-a-unsorted) | Fast, non-interpolated searching algorithms that emulate quantum searching algorithms.
 
-### Sorting Algorithms
+### Sort
 
 **A** | [Stable](https://github.com/wstaffordp/sort-a-stable) | [Unstable](https://github.com/wstaffordp/sort-a-unstable) | Fast, in-place, non-auxiliary sorting algorithms that emulate quantum sorting algorithms.
 
