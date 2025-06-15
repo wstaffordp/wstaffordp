@@ -4,7 +4,7 @@ As a result, I've brought the benefits of quantum supremacy 🧪✨🔬 to class
 
 Most of them, if not all, are optimal within their classifications, so they'll never be obsoleted ⏳👑 for eternity.
 
-It's just the beginning 🦾🤖🧠 and I'm always working 🚧🔩 on new algorithms.
+It's just the beginning 🦾🤖🧠 and I'm always making 🚧🔩 new algorithms.
 
 ### PRNG
 
