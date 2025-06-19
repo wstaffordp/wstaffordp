@@ -1,5 +1,7 @@
 I'm a software performance specialist.
 
+I'm building a complete set of fundamental algorithms and data structures that have optimal performance within each classification.
+
 ### PRNG
 
 **A** | [8](https://github.com/wstaffordp/prng-a-8) | [16](https://github.com/wstaffordp/prng-a-16) | [32](https://github.com/wstaffordp/prng-a-32) | [64](https://github.com/wstaffordp/prng-a-64) | Extremely-fast, small-period, statistically-weak PRNGs.
