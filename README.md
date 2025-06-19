@@ -1,10 +1,4 @@
-I was previously a failed entrepreneur, but now I'm the best in the world 🎉🏆🌎 at making high-quality, practical algorithms that make computers run efficiently.
-
-As a result, I've brought the benefits of quantum supremacy 🧪✨🔬 to classical computers 💻🤔📱 by making fundamental computer science algorithms that were once considered impossible.
-
-Most of them, if not all, are optimal within their classifications, so they'll never be obsoleted ⏳👑 for eternity.
-
-It's just the beginning 🦾🤖🧠 and I'm always making 🚧🔩 new algorithms.
+I'm a software performance specialist.
 
 ### PRNG
 
