@@ -1,6 +1,6 @@
 I'm a software performance specialist.
 
-I'm building a complete set of fundamental algorithms and data structures that have optimal performance within each classification.
+I'm building a set of fundamental algorithms and data structures that have optimal performance within each classification.
 
 ### PRNG
 
